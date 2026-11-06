@@ -1,0 +1,5 @@
+- go script to print the message
+- Dockerfile and docker-compose.yml to create the image and run the container.
+- systemhealth.sh to check the disk, cpu, memory usage. 80% is the limit
+- ci.yml to run the github actions so it automatically catch the cahnges made and update it.
+- doclerhub gets the final image. 
